@@ -10,7 +10,9 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@media_bot_updates
+
+🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:- @darkz_hacker_devil
 </i>"""    
     
     HELP_TEXT = """
@@ -43,10 +45,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@media_bot_updates
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot V2</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/darkz_hacker_devil">Ravidu Yasas</a></i></b>
 
