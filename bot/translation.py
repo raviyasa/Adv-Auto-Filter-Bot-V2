@@ -48,9 +48,9 @@ For More Details Click Help Button Below..
 @media_bot_updates
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot V2</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code>  Aᴜᴛᴏ Fɪʟᴛᴇʀ Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/darkz_hacker_devil">Ravidu Yasas</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/darkz_hacker_devil"></> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> {Oғғʟɪɴᴇ} ♰</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
