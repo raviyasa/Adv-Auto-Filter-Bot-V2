@@ -12,8 +12,8 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥�
 For More Details Click Help Button Below..
 @media_bot_updates
 
-🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:- @darkz_hacker_devil
-</i>"""    
+🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:- <a href=""> </> (Hʏᴊᴀᴄᴋᴇᴅ ☠️) Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 {Hᴀᴄᴋᴇᴅ} ♰ </></a>
+</i>"""   
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -45,7 +45,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@media_bot_updates
+[Bᴏᴛ Sʜᴀᴅᴏᴡ ♾](https://t.me/media_bot_updates)
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code>  Aᴜᴛᴏ Fɪʟᴛᴇʀ Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</code>
